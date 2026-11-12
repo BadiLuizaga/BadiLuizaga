@@ -1,6 +1,6 @@
  <div align="center">
 
-# 👋 ¡Hola! Soy Anthony Badi Luizaga
+#  ¡Hola! Soy Anthony Badi Luizaga
 
 **Estudiante de Ingeniería de Sistemas | Full Stack Developer**
 
@@ -12,7 +12,7 @@ Desarrollando soluciones tecnológicas mediante ingeniería de software, desarro
 
 ---
 
-### 🧑‍💻 Sobre mí
+###  Sobre mí
 
 - 🎓 Estudiante de **8vo semestre de Ingeniería de Sistemas** en la UAGRM.
 - 💻 Interesado en el desarrollo **Full Stack** y la arquitectura de software.
@@ -22,7 +22,7 @@ Desarrollando soluciones tecnológicas mediante ingeniería de software, desarro
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+###  Tecnologías y herramientas
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Desarrollando soluciones tecnológicas mediante ingeniería de software, desarro
 
 ---
 
-### 🚀 Proyectos destacados
+###  Proyectos destacados
 
 - 🛍️ **[SmartLook](https://github.com/BadiLuizaga/smartlook-tienda-ropa)**  
   Sistema de comercio electrónico para tiendas de ropa, con arquitectura SaaS, PWA y probador virtual mediante realidad aumentada.
@@ -63,7 +63,7 @@ Desarrollando soluciones tecnológicas mediante ingeniería de software, desarro
 
 ---
 
-### 🤝 Colaboraciones y proyectos grupales
+###  Colaboraciones y proyectos grupales
 
 - Desarrollo de sistemas empresariales y aplicaciones web.
 - Diseño e implementación de bases de datos relacionales.
@@ -73,7 +73,7 @@ Desarrollando soluciones tecnológicas mediante ingeniería de software, desarro
 
 ---
 
-### 📊 Estadísticas de GitHub
+###  Estadísticas de GitHub
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Desarrollando soluciones tecnológicas mediante ingeniería de software, desarro
 
 ---
 
-### 🌐 Redes y cuentas
+###  Redes y cuentas
 
 <div align="center">
 
